@@ -1,0 +1,7 @@
+th{
+    background-color: lightgray;
+}
+
+body+thead {
+  display: none;
+}
